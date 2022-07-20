@@ -9,19 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Hello, My name is Patcharaporn Srisawat.
+I'm 19 years old.
+I study Computer Engineering at KMUTNB.
 
-# Patcharaporn Srisawat
-## Cpr.E year2
-### KMUTNB
+# Skills
+Python
+# Interests
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Contact
 
 [Link](url) and ![Image](src)
 ```
