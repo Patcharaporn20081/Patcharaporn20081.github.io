@@ -6,7 +6,7 @@ I'm from Thailand. I'm 19 years old.
 
 I study Computer Engineering at KMUTNB.
 
-## SKILLS
+## SKILL
 Python
 
 ## INTERESTS
