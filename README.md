@@ -6,18 +6,18 @@ I'm from Thailand. I'm 19 years old.
 
 I study Computer Engineering at KMUTNB.
 
-##EXPERIENCE
+## EXPERIENCE
 * Use Jupyter Notebook to write Python.
 
 ## SKILL
 * Python
 
 ## INTERESTS
-HTML
+* HTML
 
-C++
+* C++
 
 ## CONTACT
-E-mail: srisawat2545@gmail.com
+* E-mail: srisawat2545@gmail.com
 
-GitHub: [Patcharaporn20081] (https://patcharaporn20081.github.io/)
+* GitHub: [Patcharaporn20081](https://patcharaporn20081.github.io/)
