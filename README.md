@@ -6,8 +6,11 @@ I'm from Thailand. I'm 19 years old.
 
 I study Computer Engineering at KMUTNB.
 
+##EXPERIENCE
+* Use Jupyter Notebook to write Python.
+
 ## SKILL
-Python
+* Python
 
 ## INTERESTS
 HTML
