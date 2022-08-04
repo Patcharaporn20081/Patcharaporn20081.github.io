@@ -20,4 +20,4 @@ I study Computer Engineering at KMUTNB.
 * GitHub: [Patcharaporn20081](https://patcharaporn20081.github.io/)
 
 ## MY BLOG
-* [Linux](https://patcharaporn20081.github.io/)
+* [Linux](https://github.com/Patcharaporn20081/Patcharaporn20081.github.io-Linux)
