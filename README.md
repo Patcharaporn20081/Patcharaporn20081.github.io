@@ -18,3 +18,6 @@ I study Computer Engineering at KMUTNB.
 * E-mail: srisawat2545@gmail.com
 
 * GitHub: [Patcharaporn20081](https://patcharaporn20081.github.io/)
+
+## MY BLOG
+* [Linux](https://patcharaporn20081.github.io/)
