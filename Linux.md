@@ -17,7 +17,7 @@ Look for “Window subsystem for Linux”, tick the box and click "OK".
 Click "Restart". Your computer will restart. Please wait...
 
 ## Install Linux Ubuntu
-Go to "Microsoft Store"
+Go to "Microsoft Store"<br>
 ![3](https://cdn.discordapp.com/attachments/1004952240982868100/1004963349244674108/Screenshot_2022-08-05_110452.jpg)
 
 Search "linux" and click "Get".
@@ -25,7 +25,7 @@ Search "linux" and click "Get".
 
 ## Set up Linux
 When the installation is complete let you set your username and password.
-![5](https://media.discordapp.net/attachments/1004952240982868100/1004952456599449630/Screenshot_2022-08-04_225308.jpg?width=774&height=406)
+![5](https://media.discordapp.net/attachments/1004952240982868100/1004952456599449630/Screenshot_2022-08-04_225308.jpg?width=774&height=406)<br>
 If you follow all of these steps, that means you have finished installing Linux!!🎉🎉
 
 ### Thank you for viewing my blog.
