@@ -8,6 +8,6 @@ Alright, so let's start installing Linux.
 ## Turn Windows features on or off
 Search "Turn Window features on or off" on bar.
 
-! [1](https://media.discordapp.net/attachments/1004952240982868100/1004952457308295269/Screenshot_2022-08-05_004926.jpg?width=499&height=406)
+![1](https://media.discordapp.net/attachments/1004952240982868100/1004952457308295269/Screenshot_2022-08-05_004926.jpg?width=499&height=406)
 
 Look for “Window subsystem for Linux”
