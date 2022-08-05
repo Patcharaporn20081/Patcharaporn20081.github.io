@@ -13,11 +13,18 @@ Search "Turn Window features on or off" on bar.
 
 Look for “Window subsystem for Linux”, tick the box and click "OK".
 ![2](https://media.discordapp.net/attachments/1004952240982868100/1004953217681084426/Screenshot_2022-08-05_102355.jpg)
+
 Click "Restart". Your computer will restart. Please wait...
 
 ## Install Linux Ubuntu
 Go to "Microsoft Store"
 ![3](https://discord.com/channels/703523581644242944/1004952240982868100/1004956089806241802)
 
-Search "linux"
-![4](https://media.discordapp.net/attachments/1004952240982868100/1004959569295966218/Screenshot_2022-08-05_105007.jpg?width=764&height=406)
+Search "linux" and click "Get".
+![4](https://media.discordapp.net/attachments/1004952240982868100/1004952455345340526/Screenshot_2022-08-04_213522.jpg?width=762&height=406)
+
+## Set up Linux
+When the installation is complete let you set your username and password.
+
+If you follow all of these steps, that means you have finished installing Linux!!🎉🎉
+![5](https://media.discordapp.net/attachments/1004952240982868100/1004952456599449630/Screenshot_2022-08-04_225308.jpg?width=774&height=406)
