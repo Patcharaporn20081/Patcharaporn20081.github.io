@@ -18,7 +18,7 @@ Click "Restart". Your computer will restart. Please wait...
 
 ## Install Linux Ubuntu
 Go to "Microsoft Store"
-![3](https://discord.com/channels/703523581644242944/1004952240982868100/1004956089806241802)
+![3](https://discord.com/channels/703523581644242944/1004952240982868100/1004963349446021230)
 
 Search "linux" and click "Get".
 ![4](https://media.discordapp.net/attachments/1004952240982868100/1004952455345340526/Screenshot_2022-08-04_213522.jpg?width=762&height=406)
