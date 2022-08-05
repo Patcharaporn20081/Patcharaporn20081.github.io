@@ -18,7 +18,7 @@ Click "Restart". Your computer will restart. Please wait...
 
 ## Install Linux Ubuntu
 Go to "Microsoft Store"
-![3](https://discord.com/channels/703523581644242944/1004952240982868100/1004963349446021230)
+![3](https://cdn.discordapp.com/attachments/1004952240982868100/1004963349244674108/Screenshot_2022-08-05_110452.jpg)
 
 Search "linux" and click "Get".
 ![4](https://media.discordapp.net/attachments/1004952240982868100/1004952455345340526/Screenshot_2022-08-04_213522.jpg?width=762&height=406)
@@ -28,3 +28,7 @@ When the installation is complete let you set your username and password.
 
 If you follow all of these steps, that means you have finished installing Linux!!🎉🎉
 ![5](https://media.discordapp.net/attachments/1004952240982868100/1004952456599449630/Screenshot_2022-08-04_225308.jpg?width=774&height=406)
+
+### Thank you for viewing my blog.
+
+[⬅ Home Page](https://patcharaporn20081.github.io/)
