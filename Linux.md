@@ -1,1 +1,1 @@
-# How to install Linux
+# Patcharaporn Srisawat
