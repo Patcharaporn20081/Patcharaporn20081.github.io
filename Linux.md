@@ -10,4 +10,7 @@ Search "Turn Window features on or off" on bar.
 
 ![1](https://media.discordapp.net/attachments/1004952240982868100/1004952457308295269/Screenshot_2022-08-05_004926.jpg?width=499&height=406)
 
-Look for “Window subsystem for Linux”
+Look for “Window subsystem for Linux”, tick the box and click "OK".
+![2](https://media.discordapp.net/attachments/1004952240982868100/1004953217681084426/Screenshot_2022-08-05_102355.jpg)
+
+Click "Restart". Then, your computer will restart. Please wait...
