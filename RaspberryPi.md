@@ -1,6 +1,6 @@
-## How to Install Raspberry Pi.
+## How to Install Raspberry Pi
 
-Let's go!!.
+Let's go!!
 
 ![1](https://user-images.githubusercontent.com/109678309/204330124-7829defb-414f-4345-9c66-5e1ddf5e0539.jpg)
 
